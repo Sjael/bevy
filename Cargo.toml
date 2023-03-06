@@ -562,6 +562,10 @@ category = "3D Rendering"
 wasm = true
 
 [[example]]
+name = "shield"
+path = "examples/3d/shield.rs"
+
+[[example]]
 name = "skybox"
 path = "examples/3d/skybox.rs"
 
